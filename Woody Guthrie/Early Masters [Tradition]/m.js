@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Hey Lolly Lolly.mp3";		
+f[2]	= "02 Buffalo Skinners.mp3";		
+f[3]	= "03 John Henry.mp3";		
+f[4]	= "04 Gypsy Davy.mp3";		
+f[5]	= "05 Worried Man Blues.mp3";		
+f[6]	= "06 More Pretty Girls Than One.mp3";		
+f[7]	= "07 Going Down the Road Feeling Bad.mp3";		
+f[8]	= "08 Ranger's Command.mp3";		
+f[9]	= "09 Poor Boy.mp3";		
+f[10]	= "10 Lonesome Day.mp3";		
+f[11]	= "11 Pretty Boy Floyd.mp3";		
+f[12]	= "12 Hard, Ain't It Hard.mp3";		
