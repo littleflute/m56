@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "02 Brahms' Lullaby.mp3";		
+f[2]	= "03 If I Could.mp3";		
+f[3]	= "04 Sleep Tight.mp3";		
+f[4]	= "05 What A Wonderful World.mp3";		
+f[5]	= "06 My Precious One.mp3";		
+f[6]	= "07 A Mother's Prayer.mp3";		
+f[7]	= "08 The First Time Ever I Saw Your Face.mp3";		
+f[8]	= "09 Baby Close Your Eyes.mp3";		
+f[9]	= "10 Come To Me.mp3";		
+f[10]	= "11 Le Loup, La Biche Et Le Chevalier (Une Chanson Douce).mp3";		
+f[11]	= "12 Beautiful Boy.mp3";		
+f[12]	= "13 In Some Small Way.mp3";		
+f[13]	= "Miracle.mp3";		
