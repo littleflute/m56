@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 That's the Chance I'll Have to Take.mp3";		
+f[2]	= "02 Anita, You're Dreaming.mp3";		
+f[3]	= "03 You Ask Me To.mp3";		
+f[4]	= "04 This Time.mp3";		
+f[5]	= "05 Rainy Day Woman.mp3";		
+f[6]	= "06 Bob Wills Is Still the King.mp3";		
+f[7]	= "07 Are You Sure Hank Done It This Way-.mp3";		
+f[8]	= "08 Waymore's Blues.mp3";		
+f[9]	= "09 I've Always Been Crazy.mp3";		
+f[10]	= "10 Don't You Think This Outlaw's Bit's Done Got out of Hand.mp3";		
+f[11]	= "11 Theme from the Dukes of Hazzard (Good Ol' Boys).mp3";		
+f[12]	= "13 Women Do Know How to Cary On.mp3";		
+f[13]	= "14 Never Could Toe the Mark.mp3";		
+f[14]	= "15 Never Say Die [Live].mp3";		
+f[15]	= "Shine.mp3";		
