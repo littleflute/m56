@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 I Got You.mp3";		
+f[2]	= "02 MacArthur Park.mp3";		
+f[3]	= "03 Suspicious Minds.mp3";		
+f[4]	= "04 Good Hearted Woman.mp3";		
+f[5]	= "05 Luckenbach, Texas (Back to the Basics of Love).mp3";		
+f[6]	= "06 Mammas Don't Let Your Babies Grow Up to Be Cowboys.mp3";		
+f[7]	= "07 There Ain't No Good Chain Gang.mp3";		
+f[8]	= "08 Night Life.mp3";		
+f[9]	= "09 Wild Side of Life-It Wasn't God Who Made Honky Tonk Angels.mp3";		
+f[10]	= "10 Storms Never Last.mp3";		
+f[11]	= "11 Just to Satisfy You.mp3";		
+f[12]	= "12 Leave Them Boys Alone.mp3";		
+f[13]	= "13 The Conversation.mp3";		
+f[14]	= "14 The Highwayman.mp3";		
+f[15]	= "15 Silver Stallion.mp3";		
