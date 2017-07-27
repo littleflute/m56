@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Stop the World (And Let Me Off).mp3";		
+f[2]	= "02 (That's What You Get) For Lovin' Me.mp3";		
+f[3]	= "03 The Chokin' Kind.mp3";		
+f[4]	= "04 Only Daddy That'll Walk the Line.mp3";		
+f[5]	= "05 The Taker.mp3";		
+f[6]	= "06 Ladies Love Outlaws.mp3";		
+f[7]	= "07 Lonesome, On'ry and Mean.mp3";		
+f[8]	= "08 I'm a Ramblin' Man.mp3";		
+f[9]	= "09 We Had It All.mp3";		
+f[10]	= "11 Dreaming My Dreams with You.mp3";		
+f[11]	= "12 The Wurlitzer Prize (I Don't Want to Get Over You).mp3";		
+f[12]	= "13 Lucille (You Won't Do Your Daddy's Will).mp3";		
+f[13]	= "14 Drinkin' and Dreamin'.mp3";		
+f[14]	= "15 I Ain't Living Long Like This.mp3";		
+f[15]	= "Amanda.mp3";		
